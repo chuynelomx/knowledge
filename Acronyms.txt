@@ -1,0 +1,23 @@
+PHP - PHP Hypetext Pre-processor
+HTML- HyperText Markup Language
+CSS - Cascading Style Sheets
+JSON - Javascript Object Notation
+XML - Xtensible Markup Language
+API - Application Programming Interface
+IDE - Integrated Development Environment
+OOP - Object-Oriented Programming
+SDK - Software Development Kit
+SOAP - Simple Object Access Protocol
+VCS - Version Control System
+SQL - Structured Query Language
+WS - Web Service
+GUID - Globally Unique Identifier
+YAML - Ain't Another Markup Language
+USB - Universal Serial Bus
+RHC - Remote Host Controller
+HTTP - Hypertext Transfer Protocol
+FTP - File Transfer Protocol
+SSH - Secure Shell
+TCP - Transmission Control Protocol
+UDP - User Datagram Protocol
+IP - Internet Protocol or Intellectual Property
