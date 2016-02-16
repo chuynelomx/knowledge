@@ -21,3 +21,4 @@ SSH - Secure Shell
 TCP - Transmission Control Protocol
 UDP - User Datagram Protocol
 IP - Internet Protocol or Intellectual Property
+REST - Representational State Transfer
